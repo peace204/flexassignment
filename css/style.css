@@ -1,14 +1,17 @@
-
+@media(min-width:768px){
+.container{
+    margin: auto;
+    display: flex;
+    flex-basis: 20%;
+    width: 80%;
+    
+}
 
 body{
     background-color: lightgray;
 }
 
-.container{
-    margin: auto;
-    display: flex;
-    flex-basis: 20%;
-    
+
 }
 .container ul{
     list-style: none;
